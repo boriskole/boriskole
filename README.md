@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Boris, a full-time full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Boris, a full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [ZIR Online](https://zir-online.com/)  
